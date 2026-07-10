@@ -224,20 +224,30 @@ The project software is organized into multiple layers.
 # Hardware Setup
 
 <p align="center">
-  <img src="./images/hardware/hardware_setup.png" width="95%">
+  <img src="images/hardware/hardware_setup.png" alt="Hardware Setup" width="90%">
 </p>
 
-## Hardware Used
-
-- STM32 NUCLEO-G071RB
-- NXP i.MX 8M Plus EVK
-- 3 Potentiometers
-- DS18B20 Temperature Sensor
-- UART Interface
-
-The STM32 continuously acquires sensor data and transmits formatted UART packets to the Embedded Linux application running on the NXP board.
+The hardware setup consists of the STM32 NUCLEO-G071RB, NXP i.MX 8M Plus EVK, three potentiometers for vehicle parameter simulation, and a DS18B20 temperature sensor.
 
 ---
+
+# Wiring Diagram
+
+<p align="center">
+  <img src="images/hardware/wiring_diagram.png" alt="Wiring Diagram" width="90%">
+</p>
+
+The wiring diagram shows the electrical connections between the STM32 board, NXP board, sensors, UART interface, and power supply.
+
+---
+
+# Board Connections
+
+<p align="center">
+  <img src="images/hardware/board_connections.png" alt="Board Connections" width="90%">
+</p>
+
+The board connection diagram illustrates the GPIO, ADC, UART, and power pin mapping used in the project.
 
 # Wiring Diagram
 
