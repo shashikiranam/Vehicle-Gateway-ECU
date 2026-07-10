@@ -1,1 +1,17 @@
+# STM32CubeMX Configuration
 
+This folder contains the STM32CubeMX project configuration.
+
+## Files
+
+- VehicleGateway.ioc
+
+The IOC file stores:
+
+- Pin Configuration
+- Clock Configuration
+- ADC Configuration
+- UART Configuration
+- GPIO Configuration
+
+This file can be opened directly using STM32CubeMX or STM32CubeIDE.
