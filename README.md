@@ -5,6 +5,10 @@
 # Vehicle Gateway ECU
 
 <p align="center">
+  <img src="./images/banner.png" alt="Vehicle Gateway ECU Banner" width="100%">
+</p>
+
+<p align="center">
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-STM32-success)
@@ -13,7 +17,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 </p>
-
 An Automotive Vehicle Gateway ECU developed using the **STM32 NUCLEO-G071RB** and **NXP i.MX 8M Plus EVK** for real-time vehicle data acquisition, UART communication, Embedded Linux processing, diagnostics, and dashboard visualization.
 
 ---
