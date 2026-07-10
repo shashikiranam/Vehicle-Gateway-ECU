@@ -8,20 +8,6 @@
 
 # Vehicle Gateway ECU
 
-
-
-<p align="center">
-
-  <img src="./images/banner.png" alt="Vehicle Gateway ECU Banner" width="100%">
-
-</p>
-
-
-
-<p align="center">
-
-
-
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ![Platform](https://img.shields.io/badge/Platform-STM32-success)
